@@ -19,9 +19,9 @@ The purpose of this project is to analyse the weather data for the months of Jun
 
 See below for the detailed summary statistics :-
 
-![June Temperature Summary Statistics](main/June_temp_stats.png)
+![June Temperature Summary Statistics](June_temp_stats.png)
 
-![December Temperature Summary Statistics](main/Dec_temp_stats.png)
+![December Temperature Summary Statistics](Dec_temp_stats.png)
 
 ## Summary
 Comparing the temperature data for June and December, it can be safely said that Oahu will have stable temperatures thorughout the year. Hence a surf and Icecream shop would be sustainable year-round.
