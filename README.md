@@ -19,9 +19,11 @@ The purpose of this project is to analyse the weather data for the months of Jun
 
 See below for the detailed summary statistics :-
 
-June Statistics :- 
+<b> June Statistics </b> :- 
 
 ![June Temperature Summary Statistics](June_temp_stats.png)
+
+<b> December Statistics </b> :-
 
 ![December Temperature Summary Statistics](Dec_temp_stats.png)
 
